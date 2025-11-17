@@ -571,7 +571,7 @@ int test_memcpy_memmove(void)
 
 int main(int argc, char *argv[])
 {
-    printf("TEST ENTRY\n");
+    printf("TEST ENTRY !!\n");
     printf("GNU libc version: %s %s\n", gnu_get_libc_version(), ENVIRONMENT);
 
     // test_sizeof();
